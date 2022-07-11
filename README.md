@@ -1,2 +1,2 @@
 # numpy-pandas
-python的numpy、pandas包使用基础
+# pyhton基础，以及python中的第三方库——numpy、pandas包使用基础
